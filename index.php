@@ -431,12 +431,12 @@ setTimeout(function(){
       <div class="circle">
         <div class="front front-popular">
           <div class="title color-1-font glyphicon glyphicon-user"></div>
-          <div class="price color-1-font"><span class="total">Librarian</span></div>
-          <div class="description">Librarian Login</div>
+          <div class="price color-1-font"><span class="total">Library</span></div>
+          <div class="description">Library Login</div>
         </div><!-- end div .front -->
         <div class="popular color-1-font glyphicon glyphicon-user"></div>
         <div class="back color-1-bg info">
-          <div class="title">Librarian</div>
+          <div class="title">Library</div>
           <div class="description">
             
             <a href="librarian/login.php" class="btn btn-danger">Login</a>

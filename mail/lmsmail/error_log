@@ -1,0 +1,25 @@
+[28-Dec-2017 09:13:18 UTC] PHP Notice:  unserialize(): Error at offset 9 of 14 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 6
+[28-Dec-2017 09:13:18 UTC] PHP Notice:  unserialize(): Error at offset 9 of 13 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 8
+[28-Dec-2017 09:14:38 UTC] PHP Notice:  unserialize(): Error at offset 9 of 14 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 7
+[28-Dec-2017 09:14:38 UTC] PHP Notice:  unserialize(): Error at offset 9 of 13 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 10
+[28-Dec-2017 09:14:51 UTC] PHP Notice:  unserialize(): Error at offset 9 of 14 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 7
+[28-Dec-2017 09:14:51 UTC] PHP Notice:  unserialize(): Error at offset 9 of 13 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 10
+[28-Dec-2017 09:16:10 UTC] PHP Notice:  unserialize(): Error at offset 9 of 14 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 7
+[28-Dec-2017 09:16:10 UTC] PHP Notice:  unserialize(): Error at offset 9 of 13 bytes in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 10
+[28-Dec-2017 09:18:42 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 14
+[28-Dec-2017 09:18:42 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Array to string conversion in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 7
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 15
+[28-Dec-2017 09:20:11 UTC] PHP Notice:  Undefined variable: var2 in /home/sslabs/public_html/tpkumar.com/lmsmail/sendallmails.php on line 16

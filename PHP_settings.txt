@@ -1,0 +1,11 @@
+Php.ini (settings)
+==========================================
+
+route:: XAMPP->  php->  php.ini
+
+------------------------------------------
+change some values in this file (php.ini)
+------------------------------------------
+
+BEFORE:	post_max_size=8M
+AFTER:	post_max_size=100M

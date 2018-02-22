@@ -1,0 +1,24 @@
+db name: lms
+
+
+librarian login page =	http://localhost/phplms/librarian/login.php
+	username = admin
+	password = admin
+
+
+student login page = http://localhost/phplms/student/login.php
+	->username = ahmed01
+	  password = ahmed01
+
+	->username = shravan01
+	  password = shravan01
+
+	->username = omkar01
+	  password = omkar01
+
+
+
+organization login page = http://localhost/phplms/student/login.php
+	username = npu
+	password = 123
+
